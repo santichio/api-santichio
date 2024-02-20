@@ -1,0 +1,12 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### dotenv ###
+.env
+
+### Node ###
+# Modules
+node_modules
